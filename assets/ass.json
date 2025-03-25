@@ -1,0 +1,1047 @@
+[
+  {
+    "title": "Cyber Security",
+    "questions": [
+      {
+        "question": "What is phishing?",
+        "options": ["A type of malware", "A method of stealing sensitive information", "A type of encryption", "A network protocol"],
+        "answer": "A method of stealing sensitive information"
+      },
+      {
+        "question": "What is a VPN used for?",
+        "options": ["Encrypting internet traffic", "Speeding up internet connections", "Blocking ads", "Managing firewalls"],
+        "answer": "Encrypting internet traffic"
+      },
+      {
+        "question": "What is two-factor authentication (2FA)?",
+        "options": ["A security method requiring two forms of verification", "A type of encryption", "A network protocol", "A type of malware"],
+        "answer": "A security method requiring two forms of verification"
+      },
+      {
+        "question": "What is a DDoS attack?",
+        "options": ["Overloading a server with traffic", "Stealing data", "Encrypting files for ransom", "Spreading malware"],
+        "answer": "Overloading a server with traffic"
+      },
+      {
+        "question": "What is the purpose of a firewall?",
+        "options": ["To block unauthorized access", "To encrypt data", "To detect viruses", "To manage network traffic"],
+        "answer": "To block unauthorized access"
+      },
+      {
+        "question": "What is ransomware?",
+        "options": ["Malware that encrypts files for ransom", "A type of phishing attack", "A network protocol", "A type of firewall"],
+        "answer": "Malware that encrypts files for ransom"
+      },
+      {
+        "question": "What is a zero-day vulnerability?",
+        "options": ["A security flaw unknown to the vendor", "A type of malware", "A type of encryption", "A network attack"],
+        "answer": "A security flaw unknown to the vendor"
+      },
+      {
+        "question": "What is SSL/TLS used for?",
+        "options": ["Encrypting data in transit", "Blocking malware", "Managing firewalls", "Detecting phishing"],
+        "answer": "Encrypting data in transit"
+      },
+      {
+        "question": "What is a brute force attack?",
+        "options": ["Trying all possible password combinations", "Stealing data through phishing", "Overloading a server", "Spreading malware"],
+        "answer": "Trying all possible password combinations"
+      },
+      {
+        "question": "What is the purpose of antivirus software?",
+        "options": ["To detect and remove malware", "To encrypt data", "To manage firewalls", "To block phishing attacks"],
+        "answer": "To detect and remove malware"
+      }
+    ]
+  },
+  {
+    "title": "Networking",
+    "questions": [
+      {
+        "question": "What does IP stand for?",
+        "options": ["Internet Protocol", "Internal Protocol", "Internet Provider", "Internal Provider"],
+        "answer": "Internet Protocol"
+      },
+      {
+        "question": "What is the default port for HTTP?",
+        "options": ["80", "443", "8080", "21"],
+        "answer": "80"
+      },
+      {
+        "question": "What is a MAC address?",
+        "options": ["A unique identifier for network interfaces", "A type of IP address", "A network protocol", "A type of firewall"],
+        "answer": "A unique identifier for network interfaces"
+      },
+      {
+        "question": "What is a router used for?",
+        "options": ["Forwarding data between networks", "Connecting devices in a LAN", "Blocking unauthorized access", "Encrypting data"],
+        "answer": "Forwarding data between networks"
+      },
+      {
+        "question": "What is DNS?",
+        "options": ["A system that translates domain names to IP addresses", "A type of network protocol", "A type of firewall", "A type of encryption"],
+        "answer": "A system that translates domain names to IP addresses"
+      },
+      {
+        "question": "What is a subnet mask?",
+        "options": ["A number that defines a network's range", "A type of IP address", "A network protocol", "A type of firewall"],
+        "answer": "A number that defines a network's range"
+      },
+      {
+        "question": "What is the purpose of NAT?",
+        "options": ["To map private IP addresses to public ones", "To encrypt data", "To block unauthorized access", "To manage DNS"],
+        "answer": "To map private IP addresses to public ones"
+      },
+      {
+        "question": "What is a ping used for?",
+        "options": ["To test connectivity between devices", "To encrypt data", "To block unauthorized access", "To manage DNS"],
+        "answer": "To test connectivity between devices"
+      },
+      {
+        "question": "What is a switch used for?",
+        "options": ["Connecting devices in a LAN", "Forwarding data between networks", "Blocking unauthorized access", "Encrypting data"],
+        "answer": "Connecting devices in a LAN"
+      },
+      {
+        "question": "What is the purpose of a gateway?",
+        "options": ["To connect different networks", "To encrypt data", "To block unauthorized access", "To manage DNS"],
+        "answer": "To connect different networks"
+      }
+    ]
+  },
+  {
+    "title": "Software Development",
+    "questions": [
+      {
+        "question": "What is Agile methodology?",
+        "options": ["A project management framework", "A programming language", "A database system", "A type of software"],
+        "answer": "A project management framework"
+      },
+      {
+        "question": "What is version control?",
+        "options": ["A system to manage changes to code", "A type of database", "A programming paradigm", "A testing framework"],
+        "answer": "A system to manage changes to code"
+      },
+      {
+        "question": "What is Git?",
+        "options": ["A version control system", "A programming language", "A database system", "A testing framework"],
+        "answer": "A version control system"
+      },
+      {
+        "question": "What is a pull request?",
+        "options": ["A request to merge code changes", "A type of database query", "A programming paradigm", "A testing framework"],
+        "answer": "A request to merge code changes"
+      },
+      {
+        "question": "What is CI/CD?",
+        "options": ["Continuous Integration/Continuous Deployment", "A programming language", "A database system", "A testing framework"],
+        "answer": "Continuous Integration/Continuous Deployment"
+      },
+      {
+        "question": "What is a bug in software development?",
+        "options": ["An error in the code", "A feature request", "A type of database", "A testing framework"],
+        "answer": "An error in the code"
+      },
+      {
+        "question": "What is unit testing?",
+        "options": ["Testing individual components of code", "Testing the entire system", "A type of database", "A programming paradigm"],
+        "answer": "Testing individual components of code"
+      },
+      {
+        "question": "What is an IDE?",
+        "options": ["Integrated Development Environment", "A programming language", "A database system", "A testing framework"],
+        "answer": "Integrated Development Environment"
+      },
+      {
+        "question": "What is refactoring?",
+        "options": ["Improving code without changing its behavior", "Fixing bugs", "Adding new features", "Testing the system"],
+        "answer": "Improving code without changing its behavior"
+      },
+      {
+        "question": "What is a framework in software development?",
+        "options": ["A reusable set of libraries or tools", "A programming language", "A database system", "A testing framework"],
+        "answer": "A reusable set of libraries or tools"
+      }
+    ]
+  },
+  {
+    "title": "Frontend Developer",
+    "questions": [
+      {
+        "question": "What does HTML stand for?",
+        "options": ["HyperText Markup Language", "HyperText Machine Language", "HyperText Markup Link", "HyperText Machine Link"],
+        "answer": "HyperText Markup Language"
+      },
+      {
+        "question": "What is the purpose of CSS?",
+        "options": ["To style web pages", "To add interactivity", "To manage databases", "To handle server-side logic"],
+        "answer": "To style web pages"
+      },
+      {
+        "question": "What is JavaScript used for?",
+        "options": ["Adding interactivity to web pages", "Styling web pages", "Managing databases", "Handling server-side logic"],
+        "answer": "Adding interactivity to web pages"
+      },
+      {
+        "question": "What is a responsive web design?",
+        "options": ["Designing websites to work on all devices", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Designing websites to work on all devices"
+      },
+      {
+        "question": "What is a CSS framework?",
+        "options": ["A pre-prepared library for styling", "A programming language", "A database system", "A testing framework"],
+        "answer": "A pre-prepared library for styling"
+      },
+      {
+        "question": "What is the DOM?",
+        "options": ["Document Object Model", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Document Object Model"
+      },
+      {
+        "question": "What is a media query in CSS?",
+        "options": ["A technique for responsive design", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A technique for responsive design"
+      },
+      {
+        "question": "What is Bootstrap?",
+        "options": ["A CSS framework", "A programming language", "A database system", "A testing framework"],
+        "answer": "A CSS framework"
+      },
+      {
+        "question": "What is a single-page application (SPA)?",
+        "options": ["A web app that loads a single HTML page", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A web app that loads a single HTML page"
+      },
+      {
+        "question": "What is AJAX?",
+        "options": ["A technique for asynchronous web requests", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A technique for asynchronous web requests"
+      }
+    ]
+  },
+  {
+    "title": "Backend Developer",
+    "questions": [
+      {
+        "question": "What is an API?",
+        "options": ["Application Programming Interface", "Application Process Interface", "Application Protocol Interface", "Application Process Integration"],
+        "answer": "Application Programming Interface"
+      },
+      {
+        "question": "What is a RESTful API?",
+        "options": ["An API that follows REST principles", "A type of database", "A programming language", "A testing framework"],
+        "answer": "An API that follows REST principles"
+      },
+      {
+        "question": "What is a database schema?",
+        "options": ["The structure of a database", "A type of API", "A programming language", "A testing framework"],
+        "answer": "The structure of a database"
+      },
+      {
+        "question": "What is SQL?",
+        "options": ["Structured Query Language", "Simple Query Language", "Structured Question Language", "Simple Question Language"],
+        "answer": "Structured Query Language"
+      },
+      {
+        "question": "What is a NoSQL database?",
+        "options": ["A database that doesn't use SQL", "A type of API", "A programming language", "A testing framework"],
+        "answer": "A database that doesn't use SQL"
+      },
+      {
+        "question": "What is caching?",
+        "options": ["Storing data for quick access", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Storing data for quick access"
+      },
+      {
+        "question": "What is a microservice architecture?",
+        "options": ["A way to structure apps as independent services", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A way to structure apps as independent services"
+      },
+      {
+        "question": "What is a web server?",
+        "options": ["Software that handles HTTP requests", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Software that handles HTTP requests"
+      },
+      {
+        "question": "What is load balancing?",
+        "options": ["Distributing traffic across servers", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Distributing traffic across servers"
+      },
+      {
+        "question": "What is a CDN?",
+        "options": ["Content Delivery Network", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Content Delivery Network"
+      }
+    ]
+  },
+  {
+    "title": "FullStack Developer",
+    "questions": [
+      {
+        "question": "What is the role of a FullStack Developer?",
+        "options": ["To work on both frontend and backend", "To manage databases", "To design user interfaces", "To handle server-side logic"],
+        "answer": "To work on both frontend and backend"
+      },
+      {
+        "question": "What is Node.js?",
+        "options": ["A runtime environment for JavaScript", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A runtime environment for JavaScript"
+      },
+      {
+        "question": "What is Express.js?",
+        "options": ["A backend framework for Node.js", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A backend framework for Node.js"
+      },
+      {
+        "question": "What is MongoDB?",
+        "options": ["A NoSQL database", "A frontend framework", "A programming language", "A testing framework"],
+        "answer": "A NoSQL database"
+      },
+      {
+        "question": "What is React?",
+        "options": ["A frontend JavaScript library", "A backend framework", "A database system", "A programming language"],
+        "answer": "A frontend JavaScript library"
+      },
+      {
+        "question": "What is REST?",
+        "options": ["A software architectural style", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A software architectural style"
+      },
+      {
+        "question": "What is GraphQL?",
+        "options": ["A query language for APIs", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A query language for APIs"
+      },
+      {
+        "question": "What is Docker?",
+        "options": ["A containerization platform", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A containerization platform"
+      },
+      {
+        "question": "What is Kubernetes?",
+        "options": ["A container orchestration tool", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A container orchestration tool"
+      },
+      {
+        "question": "What is JWT?",
+        "options": ["A token-based authentication method", "A frontend framework", "A database system", "A programming language"],
+        "answer": "A token-based authentication method"
+      }
+    ]
+  },
+  {
+    "title": "Mobile Application Development",
+    "questions": [
+      {
+        "question": "What is React Native?",
+        "options": ["A framework for building mobile apps", "A programming language", "A database system", "A testing framework"],
+        "answer": "A framework for building mobile apps"
+      },
+      {
+        "question": "What is the primary language for Android development?",
+        "options": ["Java", "Python", "C#", "Swift"],
+        "answer": "Java"
+      },
+      {
+        "question": "What is Swift?",
+        "options": ["A programming language for iOS development", "A database system", "A testing framework", "A frontend framework"],
+        "answer": "A programming language for iOS development"
+      },
+      {
+        "question": "What is Flutter?",
+        "options": ["A framework for building cross-platform apps", "A programming language", "A database system", "A testing framework"],
+        "answer": "A framework for building cross-platform apps"
+      },
+      {
+        "question": "What is an APK?",
+        "options": ["An Android application package", "A programming language", "A database system", "A testing framework"],
+        "answer": "An Android application package"
+      },
+      {
+        "question": "What is Xcode?",
+        "options": ["An IDE for iOS development", "A programming language", "A database system", "A testing framework"],
+        "answer": "An IDE for iOS development"
+      },
+      {
+        "question": "What is a hybrid mobile app?",
+        "options": ["An app that works on multiple platforms", "A programming language", "A database system", "A testing framework"],
+        "answer": "An app that works on multiple platforms"
+      },
+      {
+        "question": "What is Firebase?",
+        "options": ["A backend platform for mobile apps", "A programming language", "A database system", "A testing framework"],
+        "answer": "A backend platform for mobile apps"
+      },
+      {
+        "question": "What is Kotlin?",
+        "options": ["A programming language for Android development", "A database system", "A testing framework", "A frontend framework"],
+        "answer": "A programming language for Android development"
+      },
+      {
+        "question": "What is an emulator?",
+        "options": ["A tool to simulate mobile devices", "A programming language", "A database system", "A testing framework"],
+        "answer": "A tool to simulate mobile devices"
+      }
+    ]
+  },
+  {
+    "title": "Operating System",
+    "questions": [
+      {
+        "question": "What is the kernel of an operating system?",
+        "options": ["The core component", "The user interface", "The file system", "The application manager"],
+        "answer": "The core component"
+      },
+      {
+        "question": "What is virtual memory?",
+        "options": ["A memory management technique", "A type of RAM", "A storage device", "A type of cache"],
+        "answer": "A memory management technique"
+      },
+      {
+        "question": "What is a process in an operating system?",
+        "options": ["A program in execution", "A type of file", "A hardware component", "A user interface"],
+        "answer": "A program in execution"
+      },
+      {
+        "question": "What is multitasking?",
+        "options": ["Running multiple processes simultaneously", "A type of file system", "A hardware component", "A user interface"],
+        "answer": "Running multiple processes simultaneously"
+      },
+      {
+        "question": "What is a file system?",
+        "options": ["A method for organizing and storing files", "A type of RAM", "A hardware component", "A user interface"],
+        "answer": "A method for organizing and storing files"
+      },
+      {
+        "question": "What is a deadlock?",
+        "options": ["A situation where processes are stuck waiting", "A type of file system", "A hardware component", "A user interface"],
+        "answer": "A situation where processes are stuck waiting"
+      },
+      {
+        "question": "What is a shell?",
+        "options": ["A user interface for accessing the OS", "A type of file system", "A hardware component", "A memory management technique"],
+        "answer": "A user interface for accessing the OS"
+      },
+      {
+        "question": "What is a thread?",
+        "options": ["A lightweight process", "A type of file system", "A hardware component", "A user interface"],
+        "answer": "A lightweight process"
+      },
+      {
+        "question": "What is paging?",
+        "options": ["A memory management technique", "A type of file system", "A hardware component", "A user interface"],
+        "answer": "A memory management technique"
+      },
+      {
+        "question": "What is an interrupt?",
+        "options": ["A signal to the processor to stop current work", "A type of file system", "A hardware component", "A user interface"],
+        "answer": "A signal to the processor to stop current work"
+      }
+    ]
+  },
+  {
+    "title": "UI/UX Design",
+    "questions": [
+      {
+        "question": "What is the difference between UI and UX?",
+        "options": ["UI is about the interface, UX is about the experience", "UI is about the experience, UX is about the interface", "They are the same", "None of the above"],
+        "answer": "UI is about the interface, UX is about the experience"
+      },
+      {
+        "question": "What is a wireframe?",
+        "options": ["A visual guide of a webpage's structure", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "A visual guide of a webpage's structure"
+      },
+      {
+        "question": "What is a prototype?",
+        "options": ["A working model of a design", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "A working model of a design"
+      },
+      {
+        "question": "What is usability testing?",
+        "options": ["Testing a product with real users", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "Testing a product with real users"
+      },
+      {
+        "question": "What is a persona?",
+        "options": ["A fictional representation of a user", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "A fictional representation of a user"
+      },
+      {
+        "question": "What is a user journey map?",
+        "options": ["A visualization of a user's experience", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "A visualization of a user's experience"
+      },
+      {
+        "question": "What is accessibility in design?",
+        "options": ["Designing for all users, including those with disabilities", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "Designing for all users, including those with disabilities"
+      },
+      {
+        "question": "What is a design system?",
+        "options": ["A collection of reusable components", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "A collection of reusable components"
+      },
+      {
+        "question": "What is a mockup?",
+        "options": ["A high-fidelity representation of a design", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "A high-fidelity representation of a design"
+      },
+      {
+        "question": "What is a user flow?",
+        "options": ["The path a user takes to complete a task", "A type of font", "A color scheme", "A user flow diagram"],
+        "answer": "The path a user takes to complete a task"
+      }
+    ]
+  },
+  {
+    "title": "Cloud Computing",
+    "questions": [
+      {
+        "question": "What is AWS?",
+        "options": ["Amazon Web Services", "Azure Web Services", "Apple Web Services", "Adobe Web Services"],
+        "answer": "Amazon Web Services"
+      },
+      {
+        "question": "What is a virtual machine?",
+        "options": ["An emulation of a computer system", "A physical server", "A type of database", "A programming language"],
+        "answer": "An emulation of a computer system"
+      },
+      {
+        "question": "What is SaaS?",
+        "options": ["Software as a Service", "Storage as a Service", "Security as a Service", "Server as a Service"],
+        "answer": "Software as a Service"
+      },
+      {
+        "question": "What is IaaS?",
+        "options": ["Infrastructure as a Service", "Internet as a Service", "Integration as a Service", "Intelligence as a Service"],
+        "answer": "Infrastructure as a Service"
+      },
+      {
+        "question": "What is PaaS?",
+        "options": ["Platform as a Service", "Programming as a Service", "Processing as a Service", "Protocol as a Service"],
+        "answer": "Platform as a Service"
+      },
+      {
+        "question": "What is a CDN?",
+        "options": ["Content Delivery Network", "Cloud Data Network", "Centralized Data Network", "Cloud Delivery Network"],
+        "answer": "Content Delivery Network"
+      },
+      {
+        "question": "What is scalability in cloud computing?",
+        "options": ["The ability to handle growing workloads", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The ability to handle growing workloads"
+      },
+      {
+        "question": "What is a load balancer?",
+        "options": ["A tool to distribute traffic across servers", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A tool to distribute traffic across servers"
+      },
+      {
+        "question": "What is a container?",
+        "options": ["A lightweight, standalone executable package", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A lightweight, standalone executable package"
+      },
+      {
+        "question": "What is Kubernetes?",
+        "options": ["A container orchestration tool", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A container orchestration tool"
+      }
+    ]
+  },
+  {
+    "title": "Database",
+    "questions": [
+      {
+        "question": "What is SQL?",
+        "options": ["Structured Query Language", "Simple Query Language", "Structured Question Language", "Simple Question Language"],
+        "answer": "Structured Query Language"
+      },
+      {
+        "question": "What is a primary key?",
+        "options": ["A unique identifier for a record", "A type of query", "A database table", "A type of index"],
+        "answer": "A unique identifier for a record"
+      },
+      {
+        "question": "What is a foreign key?",
+        "options": ["A key that links two tables", "A type of query", "A database table", "A type of index"],
+        "answer": "A key that links two tables"
+      },
+      {
+        "question": "What is normalization?",
+        "options": ["The process of organizing data to reduce redundancy", "A type of query", "A database table", "A type of index"],
+        "answer": "The process of organizing data to reduce redundancy"
+      },
+      {
+        "question": "What is a NoSQL database?",
+        "options": ["A database that doesn't use SQL", "A type of query", "A database table", "A type of index"],
+        "answer": "A database that doesn't use SQL"
+      },
+      {
+        "question": "What is a relational database?",
+        "options": ["A database that uses tables to store data", "A type of query", "A database table", "A type of index"],
+        "answer": "A database that uses tables to store data"
+      },
+      {
+        "question": "What is a transaction?",
+        "options": ["A sequence of database operations", "A type of query", "A database table", "A type of index"],
+        "answer": "A sequence of database operations"
+      },
+      {
+        "question": "What is indexing?",
+        "options": ["A method to speed up data retrieval", "A type of query", "A database table", "A type of index"],
+        "answer": "A method to speed up data retrieval"
+      },
+      {
+        "question": "What is a view?",
+        "options": ["A virtual table based on a query", "A type of query", "A database table", "A type of index"],
+        "answer": "A virtual table based on a query"
+      },
+      {
+        "question": "What is a stored procedure?",
+        "options": ["A set of SQL statements stored in the database", "A type of query", "A database table", "A type of index"],
+        "answer": "A set of SQL statements stored in the database"
+      }
+    ]
+  },
+  {
+    "title": "Database Administrator",
+    "questions": [
+      {
+        "question": "What is the role of a DBA?",
+        "options": ["To manage and maintain databases", "To design user interfaces", "To develop software", "To handle network security"],
+        "answer": "To manage and maintain databases"
+      },
+      {
+        "question": "What is database backup?",
+        "options": ["A copy of data for recovery purposes", "A type of query", "A database table", "A type of index"],
+        "answer": "A copy of data for recovery purposes"
+      },
+      {
+        "question": "What is database replication?",
+        "options": ["Copying data to multiple locations", "A type of query", "A database table", "A type of index"],
+        "answer": "Copying data to multiple locations"
+      },
+      {
+        "question": "What is database sharding?",
+        "options": ["Splitting data across multiple databases", "A type of query", "A database table", "A type of index"],
+        "answer": "Splitting data across multiple databases"
+      },
+      {
+        "question": "What is database clustering?",
+        "options": ["Grouping multiple databases for high availability", "A type of query", "A database table", "A type of index"],
+        "answer": "Grouping multiple databases for high availability"
+      },
+      {
+        "question": "What is database indexing?",
+        "options": ["A method to speed up data retrieval", "A type of query", "A database table", "A type of index"],
+        "answer": "A method to speed up data retrieval"
+      },
+      {
+        "question": "What is database normalization?",
+        "options": ["The process of organizing data to reduce redundancy", "A type of query", "A database table", "A type of index"],
+        "answer": "The process of organizing data to reduce redundancy"
+      },
+      {
+        "question": "What is database partitioning?",
+        "options": ["Dividing a database into smaller parts", "A type of query", "A database table", "A type of index"],
+        "answer": "Dividing a database into smaller parts"
+      },
+      {
+        "question": "What is database mirroring?",
+        "options": ["Creating a duplicate of a database", "A type of query", "A database table", "A type of index"],
+        "answer": "Creating a duplicate of a database"
+      },
+      {
+        "question": "What is database tuning?",
+        "options": ["Optimizing database performance", "A type of query", "A database table", "A type of index"],
+        "answer": "Optimizing database performance"
+      }
+    ]
+  },
+  {
+    "title": "Data Science and Analysis",
+    "questions": [
+      {
+        "question": "What is machine learning?",
+        "options": ["A subset of AI that uses algorithms to learn from data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A subset of AI that uses algorithms to learn from data"
+      },
+      {
+        "question": "What is a data warehouse?",
+        "options": ["A system used for reporting and data analysis", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A system used for reporting and data analysis"
+      },
+      {
+        "question": "What is a data pipeline?",
+        "options": ["A process for moving and transforming data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A process for moving and transforming data"
+      },
+      {
+        "question": "What is a data lake?",
+        "options": ["A repository for raw data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A repository for raw data"
+      },
+      {
+        "question": "What is data mining?",
+        "options": ["The process of discovering patterns in data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The process of discovering patterns in data"
+      },
+      {
+        "question": "What is a data model?",
+        "options": ["A representation of data structures", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A representation of data structures"
+      },
+      {
+        "question": "What is a data visualization?",
+        "options": ["The graphical representation of data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The graphical representation of data"
+      },
+      {
+        "question": "What is a data scientist?",
+        "options": ["A professional who analyzes and interprets data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A professional who analyzes and interprets data"
+      },
+      {
+        "question": "What is a data engineer?",
+        "options": ["A professional who builds data pipelines", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A professional who builds data pipelines"
+      },
+      {
+        "question": "What is a data analyst?",
+        "options": ["A professional who interprets data for insights", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A professional who interprets data for insights"
+      }
+    ]
+  },
+  {
+    "title": "C Programming language",
+    "questions": [
+      {
+        "question": "What is a pointer in C?",
+        "options": ["A variable that stores the address of another variable", "A type of function", "A type of array", "A type of loop"],
+        "answer": "A variable that stores the address of another variable"
+      },
+      {
+        "question": "What is the syntax for a for loop in C?",
+        "options": ["for (int i = 0; i < n; i++)", "for i in range(n)", "for (i = 0; i < n; i++)", "for i = 0 to n"],
+        "answer": "for (int i = 0; i < n; i++)"
+      },
+      {
+        "question": "What is a function in C?",
+        "options": ["A block of code that performs a specific task", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A block of code that performs a specific task"
+      },
+      {
+        "question": "What is the purpose of the main() function in C?",
+        "options": ["The entry point of a C program", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "The entry point of a C program"
+      },
+      {
+        "question": "What is a structure in C?",
+        "options": ["A user-defined data type", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A user-defined data type"
+      },
+      {
+        "question": "What is the sizeof operator in C?",
+        "options": ["A function that returns the size of a data type", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A function that returns the size of a data type"
+      },
+      {
+        "question": "What is a header file in C?",
+        "options": ["A file that contains function declarations", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A file that contains function declarations"
+      },
+      {
+        "question": "What is the purpose of the #include directive in C?",
+        "options": ["To include header files", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To include header files"
+      },
+      {
+        "question": "What is a macro in C?",
+        "options": ["A piece of code replaced by a macro definition", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A piece of code replaced by a macro definition"
+      },
+      {
+        "question": "What is the purpose of the return statement in C?",
+        "options": ["To return a value from a function", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To return a value from a function"
+      }
+    ]
+  },
+  {
+    "title": "C++ Programming language",
+    "questions": [
+      {
+        "question": "What is a class in C++?",
+        "options": ["A blueprint for creating objects", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A blueprint for creating objects"
+      },
+      {
+        "question": "What is inheritance in C++?",
+        "options": ["A mechanism to create a new class from an existing class", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A mechanism to create a new class from an existing class"
+      },
+      {
+        "question": "What is polymorphism in C++?",
+        "options": ["The ability of a function to operate in different ways", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "The ability of a function to operate in different ways"
+      },
+      {
+        "question": "What is a constructor in C++?",
+        "options": ["A special function called when an object is created", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A special function called when an object is created"
+      },
+      {
+        "question": "What is a destructor in C++?",
+        "options": ["A special function called when an object is destroyed", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A special function called when an object is destroyed"
+      },
+      {
+        "question": "What is a template in C++?",
+        "options": ["A feature that allows functions and classes to operate with generic types", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A feature that allows functions and classes to operate with generic types"
+      },
+      {
+        "question": "What is the purpose of the virtual keyword in C++?",
+        "options": ["To enable dynamic binding", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To enable dynamic binding"
+      },
+      {
+        "question": "What is a namespace in C++?",
+        "options": ["A declarative region that provides scope to identifiers", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A declarative region that provides scope to identifiers"
+      },
+      {
+        "question": "What is the purpose of the new operator in C++?",
+        "options": ["To allocate memory dynamically", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To allocate memory dynamically"
+      },
+      {
+        "question": "What is the purpose of the delete operator in C++?",
+        "options": ["To deallocate memory dynamically", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To deallocate memory dynamically"
+      }
+    ]
+  },
+  {
+    "title": "C# Programming language",
+    "questions": [
+      {
+        "question": "What is a class in C#?",
+        "options": ["A blueprint for creating objects", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A blueprint for creating objects"
+      },
+      {
+        "question": "What is inheritance in C#?",
+        "options": ["A mechanism to create a new class from an existing class", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A mechanism to create a new class from an existing class"
+      },
+      {
+        "question": "What is polymorphism in C#?",
+        "options": ["The ability of a function to operate in different ways", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "The ability of a function to operate in different ways"
+      },
+      {
+        "question": "What is a constructor in C#?",
+        "options": ["A special function called when an object is created", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A special function called when an object is created"
+      },
+      {
+        "question": "What is a destructor in C#?",
+        "options": ["A special function called when an object is destroyed", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A special function called when an object is destroyed"
+      },
+      {
+        "question": "What is a delegate in C#?",
+        "options": ["A type that represents references to methods", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A type that represents references to methods"
+      },
+      {
+        "question": "What is the purpose of the using statement in C#?",
+        "options": ["To define a scope for resource management", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To define a scope for resource management"
+      },
+      {
+        "question": "What is a namespace in C#?",
+        "options": ["A declarative region that provides scope to identifiers", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "A declarative region that provides scope to identifiers"
+      },
+      {
+        "question": "What is the purpose of the new operator in C#?",
+        "options": ["To create an instance of a class", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To create an instance of a class"
+      },
+      {
+        "question": "What is the purpose of the this keyword in C#?",
+        "options": ["To refer to the current instance of the class", "A type of variable", "A type of array", "A type of loop"],
+        "answer": "To refer to the current instance of the class"
+      }
+    ]
+  },
+  {
+    "title": "Information Technology",
+    "questions": [
+      {
+        "question": "What is IT?",
+        "options": ["The use of computers to store, retrieve, and process data", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The use of computers to store, retrieve, and process data"
+      },
+      {
+        "question": "What is a server?",
+        "options": ["A computer that provides services to other computers", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A computer that provides services to other computers"
+      },
+      {
+        "question": "What is a client?",
+        "options": ["A computer that accesses services provided by a server", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A computer that accesses services provided by a server"
+      },
+      {
+        "question": "What is a network?",
+        "options": ["A group of interconnected computers", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A group of interconnected computers"
+      },
+      {
+        "question": "What is a protocol?",
+        "options": ["A set of rules for communication", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A set of rules for communication"
+      },
+      {
+        "question": "What is a firewall?",
+        "options": ["A security system that controls incoming and outgoing network traffic", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A security system that controls incoming and outgoing network traffic"
+      },
+      {
+        "question": "What is a VPN?",
+        "options": ["A virtual private network that encrypts internet traffic", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A virtual private network that encrypts internet traffic"
+      },
+      {
+        "question": "What is a router?",
+        "options": ["A device that forwards data between networks", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A device that forwards data between networks"
+      },
+      {
+        "question": "What is a switch?",
+        "options": ["A device that connects devices in a LAN", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A device that connects devices in a LAN"
+      },
+      {
+        "question": "What is a modem?",
+        "options": ["A device that modulates and demodulates signals for communication", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A device that modulates and demodulates signals for communication"
+      }
+    ]
+  },
+  {
+    "title": "Software Engineering",
+    "questions": [
+      {
+        "question": "What is software engineering?",
+        "options": ["The application of engineering principles to software development", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The application of engineering principles to software development"
+      },
+      {
+        "question": "What is the software development life cycle (SDLC)?",
+        "options": ["A process for planning, creating, testing, and deploying software", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A process for planning, creating, testing, and deploying software"
+      },
+      {
+        "question": "What is a requirement in software engineering?",
+        "options": ["A description of what a system should do", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A description of what a system should do"
+      },
+      {
+        "question": "What is a use case?",
+        "options": ["A description of how a system interacts with users", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A description of how a system interacts with users"
+      },
+      {
+        "question": "What is a software design pattern?",
+        "options": ["A reusable solution to a common problem", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A reusable solution to a common problem"
+      },
+      {
+        "question": "What is refactoring?",
+        "options": ["Improving code without changing its behavior", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Improving code without changing its behavior"
+      },
+      {
+        "question": "What is a software bug?",
+        "options": ["An error in the code", "A type of database", "A programming language", "A testing framework"],
+        "answer": "An error in the code"
+      },
+      {
+        "question": "What is unit testing?",
+        "options": ["Testing individual components of code", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Testing individual components of code"
+      },
+      {
+        "question": "What is integration testing?",
+        "options": ["Testing how different components work together", "A type of database", "A programming language", "A testing framework"],
+        "answer": "Testing how different components work together"
+      },
+      {
+        "question": "What is a software release?",
+        "options": ["A version of software made available to users", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A version of software made available to users"
+      }
+    ]
+  },
+  {
+    "title": "Project Management",
+    "questions": [
+      {
+        "question": "What is a project?",
+        "options": ["A temporary endeavor to create a unique product or service", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A temporary endeavor to create a unique product or service"
+      },
+      {
+        "question": "What is a project manager?",
+        "options": ["A person responsible for planning and executing a project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A person responsible for planning and executing a project"
+      },
+      {
+        "question": "What is a project scope?",
+        "options": ["The work required to deliver a project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The work required to deliver a project"
+      },
+      {
+        "question": "What is a project timeline?",
+        "options": ["A schedule of tasks and milestones", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A schedule of tasks and milestones"
+      },
+      {
+        "question": "What is a project budget?",
+        "options": ["The estimated cost of a project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "The estimated cost of a project"
+      },
+      {
+        "question": "What is a project risk?",
+        "options": ["An uncertain event that could affect a project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "An uncertain event that could affect a project"
+      },
+      {
+        "question": "What is a project stakeholder?",
+        "options": ["A person or group with an interest in the project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A person or group with an interest in the project"
+      },
+      {
+        "question": "What is a project milestone?",
+        "options": ["A significant point in a project timeline", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A significant point in a project timeline"
+      },
+      {
+        "question": "What is a project deliverable?",
+        "options": ["A tangible or intangible output of a project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A tangible or intangible output of a project"
+      },
+      {
+        "question": "What is a project charter?",
+        "options": ["A document that formally authorizes a project", "A type of database", "A programming language", "A testing framework"],
+        "answer": "A document that formally authorizes a project"
+      }
+    ]
+  }
+]
